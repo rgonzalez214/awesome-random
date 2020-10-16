@@ -210,6 +210,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Pycharm](https://www.jetbrains.com/pycharm/)
 - [Android Studio](https://developer.android.com/studio)
 - [JetBrains](https://www.jetbrains.com/)
+- [RexTester] (https://rextester.com/)
 
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
@@ -398,6 +399,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - https://www.youtube.com/user/CodeOrg
 - https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA
 - https://www.youtube.com/user/Brackeys
+
 
 ## Write unit tests!
 
